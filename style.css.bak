@@ -7,7 +7,7 @@ header {
 
 body {
 	color: #336600;
-	font-family: Apple Chancery;
+	font-family: Apple Chancery, cursive;
 }
 
 h1 {
