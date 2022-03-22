@@ -14,3 +14,15 @@ h1 {
 	color: #FF6600;
 	
 }
+
+#content {
+    padding:3px;
+}
+
+#WPI{
+    /*center the image*/
+    display: block; 
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
