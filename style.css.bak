@@ -1,0 +1,16 @@
+header {
+ font-family: Futura, Trebuchet MS;
+ font-weight: bold condensed;
+ color: #AC2B37; 
+ font-size: 25px;
+}
+
+body {
+	color: #336600;
+	font-family: Apple Chancery;
+}
+
+h1 {
+	color: #FF6600;
+	
+}
