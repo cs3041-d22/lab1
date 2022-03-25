@@ -3,6 +3,7 @@ header {
     font-weight: bold condensed;
     color: #AC2B37; 
     font-size: 25px;
+    padding: 25px 50px
    }
 
 body {
@@ -18,3 +19,22 @@ h1 {
     color: #A9B0B7; 
     font-size: 20px;
 }
+
+#content {
+    padding:3px;
+}
+
+p {
+    padding: 25px 50px
+}
+
+h1 {
+    padding: 25px 50px
+}
+
+#WPI{
+    /*center the image*/
+    display: block; 
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;}
